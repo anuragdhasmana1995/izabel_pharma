@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ product.product_type }}</title>
+</head>
+<body>
+   {% if product.medicine_set.all %}
+       <ul>
+       {% for medicine in product.medicine_set.all %}
+           <li>{{ medicine.med_name }}</li>
+           <img src="{{ medicine.med_logo }}" height="200" width="300">
+       {% endfor %}
+       </ul>
+   {% else %}
+       <h3>The medicines for this product are not available</h3>
+   {% endif %}
+</body>
+</html>

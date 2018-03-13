@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>IzabelPharma</title>
+</head>
+<body>
+      {% if all_products %}
+          <h3>Here are all the products:</h3>
+      <ul>
+          {% for product in all_products %}
+          <li> <a href="/medicines/{{ product.id }}/"> {{ product.product_type }}</a></li>
+          {% endfor %}
+      </ul>
+      {% else %}
+          <h3>You don't have any products yet</h3>
+      {% endif %}
+</body>
+</html>
