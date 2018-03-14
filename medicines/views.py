@@ -23,7 +23,7 @@ from .models import Products
 def index(request):
     products = Products.objects.all()
     context = {'all_products': products}
-    return render(request, 'medicines/index.html', context)
+    return render(request, 'medicines/index_temp.html', context)
 
 
 def product_list(request, product_id):
