@@ -2,8 +2,141 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9b73f3e-1405-4658-a2fc-d226933c368e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/css/agency.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/css/agency.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/css/creative.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/css/creative.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/about/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/about/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/about/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/about/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/header-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/logos/creative-market.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/logos/designmodo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/logos/envato.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/logos/themeforest.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/map-image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/01-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/01-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/02-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/02-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/03-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/03-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/04-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/04-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/05-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/05-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/06-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/06-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/fullsize/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/fullsize/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/fullsize/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/fullsize/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/fullsize/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/fullsize/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/medicine1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/thumbnails/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/thumbnails/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/thumbnails/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/thumbnails/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/thumbnails/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/portfolio/thumbnails/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/team/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/team/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/img/team/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/js/agency.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/js/agency.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/js/contact_me.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/js/contact_me.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/js/creative.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/js/creative.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/js/jqBootstrapValidation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/js/jqBootstrapValidation.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/scss/_bootstrap-overrides.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/scss/_contact.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/scss/_footer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/scss/_global.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/scss/_masthead.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/scss/_navbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/scss/_portfolio.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/scss/_services.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/scss/_team.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/scss/_timeline.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/scss/agency.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/scss/creative.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/bootstrap/css/bootstrap-grid.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/bootstrap/css/bootstrap-grid.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/bootstrap/css/bootstrap-reboot.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/bootstrap/css/bootstrap-reboot.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/bootstrap/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/bootstrap/js/bootstrap.bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/bootstrap/js/bootstrap.bundle.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/bootstrap/js/bootstrap.bundle.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/bootstrap/js/bootstrap.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/bootstrap/js/bootstrap.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/css/font-awesome.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/less/screen-reader.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/scss/_screen-reader.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/font-awesome/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/jquery-easing/jquery.easing.compatibility.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/jquery-easing/jquery.easing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/jquery-easing/jquery.easing.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/jquery/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/jquery/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/jquery/jquery.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/jquery/jquery.slim.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/jquery/jquery.slim.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/jquery/jquery.slim.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/magnific-popup/jquery.magnific-popup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/magnific-popup/jquery.magnific-popup.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/magnific-popup/magnific-popup.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/scrollreveal/scrollreveal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/medicines/static/medicines/vendor/scrollreveal/scrollreveal.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/New Text Document.keep" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_izabel/settings.py" afterPath="$PROJECT_DIR$/test_izabel/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_izabel/urls.py" afterPath="$PROJECT_DIR$/test_izabel/urls.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,8 +165,8 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_izabel/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+            <state relative-caret-position="153">
+              <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -64,8 +197,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_izabel/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="27" column="44" lean-forward="false" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+            <state relative-caret-position="-1298">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding>
                 <element signature="e#315#324#0" expanded="true" />
               </folding>
@@ -88,8 +221,8 @@
       <file leaf-file-name="apps.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/medicines/apps.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
+            <state relative-caret-position="51">
+              <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -140,11 +273,11 @@
         <option value="$PROJECT_DIR$/medicines/models.py" />
         <option value="$PROJECT_DIR$/medicines/templates/medicines/index.html" />
         <option value="$PROJECT_DIR$/medicines/urls.py" />
-        <option value="$PROJECT_DIR$/test_izabel/urls.py" />
         <option value="$PROJECT_DIR$/medicines/templates/medicines/product_list.html" />
         <option value="$PROJECT_DIR$/medicines/static/medicines/vendor/bootstrap/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/medicines/static/medicines/css/agency.min.css" />
         <option value="$PROJECT_DIR$/test_izabel/wsgi.py" />
+        <option value="$PROJECT_DIR$/test_izabel/urls.py" />
         <option value="$PROJECT_DIR$/test_izabel/settings.py" />
       </list>
     </option>
@@ -185,11 +318,6 @@
             <path>
               <item name="test_izabel" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_izabel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_izabel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_izabel" type="462c0819:PsiDirectoryNode" />
-              <item name="medicines" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_izabel" type="b2602c69:ProjectViewProjectNode" />
@@ -279,13 +407,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2193646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32869565" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46604937" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14814815" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14814815" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.063271604" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -464,16 +591,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_izabel/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/medicines/static/medicines/vendor/magnific-popup/magnific-popup.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-952">
@@ -533,14 +650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/medicines/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_izabel/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -551,10 +660,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test_izabel/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medicines/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test_izabel/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="27" column="44" lean-forward="false" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        <state relative-caret-position="-1298">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
             <element signature="e#315#324#0" expanded="true" />
           </folding>
