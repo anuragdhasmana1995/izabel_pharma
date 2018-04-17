@@ -1,7 +1,15 @@
 from django.conf.urls import url
 from . import views
 
+
+app_name = 'medicines'
+
 urlpatterns = [
-    url(r'^$', views.index, name='index'),
-    url(r'^(?P<product_id>[0-9]+)/$', views.product_list, name="product_list"),
+    url(r'^$', views.IndexView.as_view(), name='index'),
+    url(r'^(?P<pk>[A-Z,a-z]+)/$', views.DetailView.as_view(), name="product_list"),
 ]
+
+
+
+
+
