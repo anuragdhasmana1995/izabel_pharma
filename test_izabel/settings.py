@@ -25,7 +25,7 @@ SECRET_KEY = 'p^t!+o*5k7!zhr4j#6mkvyu*&@t)ggct$*r57o+*vy89@gu9^k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['izabelpharma.herokuapp.com']
 
 # Application definition
 
