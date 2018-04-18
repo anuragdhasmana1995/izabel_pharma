@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e9b73f3e-1405-4658-a2fc-d226933c368e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_izabel/settings.py" afterPath="$PROJECT_DIR$/test_izabel/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/medicines/templates/medicines/product_list.html" afterPath="$PROJECT_DIR$/medicines/templates/medicines/product_list.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,7 +61,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_izabel/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1349">
@@ -84,26 +83,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="runtime.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/runtime.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="apps.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/medicines/apps.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -117,8 +96,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/medicines/templates/medicines/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1615">
+            <state relative-caret-position="470">
               <caret line="95" column="65" lean-forward="false" selection-start-line="95" selection-start-column="65" selection-end-line="95" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product_list.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/medicines/templates/medicines/product_list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="42" column="68" lean-forward="false" selection-start-line="42" selection-start-column="68" selection-end-line="42" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -159,13 +148,13 @@
         <option value="$PROJECT_DIR$/medicines/models.py" />
         <option value="$PROJECT_DIR$/medicines/templates/medicines/index.html" />
         <option value="$PROJECT_DIR$/medicines/urls.py" />
-        <option value="$PROJECT_DIR$/medicines/templates/medicines/product_list.html" />
         <option value="$PROJECT_DIR$/medicines/static/medicines/vendor/bootstrap/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/medicines/static/medicines/css/agency.min.css" />
         <option value="$PROJECT_DIR$/test_izabel/wsgi.py" />
         <option value="$PROJECT_DIR$/test_izabel/urls.py" />
         <option value="$PROJECT_DIR$/Procfile.txt" />
         <option value="$PROJECT_DIR$/test_izabel/settings.py" />
+        <option value="$PROJECT_DIR$/medicines/templates/medicines/product_list.html" />
       </list>
     </option>
   </component>
@@ -208,6 +197,19 @@
             <path>
               <item name="test_izabel" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_izabel" type="462c0819:PsiDirectoryNode" />
+              <item name="medicines" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_izabel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_izabel" type="462c0819:PsiDirectoryNode" />
+              <item name="medicines" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_izabel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_izabel" type="462c0819:PsiDirectoryNode" />
+              <item name="medicines" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="medicines" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -413,22 +415,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/medicines/templates/medicines/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1615">
-          <caret line="95" column="65" lean-forward="false" selection-start-line="95" selection-start-column="65" selection-end-line="95" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/medicines/static/medicines/vendor/bootstrap/css/bootstrap.min.css" />
-    <entry file="file://$PROJECT_DIR$/medicines/templates/medicines/product_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/medicines/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -496,6 +483,22 @@
           <folding>
             <element signature="e#315#324#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medicines/templates/medicines/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="95" column="65" lean-forward="false" selection-start-line="95" selection-start-column="65" selection-end-line="95" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medicines/templates/medicines/product_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="42" column="68" lean-forward="false" selection-start-line="42" selection-start-column="68" selection-end-line="42" selection-end-column="68" />
+          <folding />
         </state>
       </provider>
     </entry>

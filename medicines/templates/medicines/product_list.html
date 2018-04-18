@@ -38,14 +38,15 @@
     <section class="bg-light" id="portfolio">
       <div class="container">
         <div class="row">
-      <div class="col-lg-12 text-center">
-        <h2 class="section-heading">Medicines</h2>
-        <hr class="my-4">
-      </div>
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading text-uppercase">Medicines</h2>
+            <h3 class="section-subheading text-muted">Made with Care</h3>
+          </div>
+        </div>
         <div class="row">
           {% for medicine in products.medicine_set.all %}
           <div class="col-md-4 col-sm-6 portfolio-item">
-           <a class="portfolio-link" data-toggle="modal" href="#portfolioModal{{ medicine.med_name }}">
+            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal{{ medicine.med_name }}">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
                   <i class="fa fa-plus fa-3x"></i>
@@ -58,10 +59,9 @@
               <p class="text-muted">{{ medicine.med_description }}</p>
             </div>
           </div>
-            {% endfor %}
-        </div>
+          {% endfor %}
 
-      </div>
+        </div>
       </div>
     </section>
 
