@@ -130,7 +130,6 @@ USE_TZ = True
 
 
 
-SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
 # MEDIA_ROOT = '/home/joe/Documents/exchange/Texchange/textchange/media/'
 
