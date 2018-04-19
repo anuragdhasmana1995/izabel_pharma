@@ -14,6 +14,7 @@ import os
 import dj_database_url
 from test_izabel.aws.conf import *
 
+
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 
 
@@ -88,7 +89,8 @@ DATABASES = {
         'PORT': '5432',                      # Set to empty string for default.
     }
 }
-db_from_env = dj_database_url.config(conn_max_age=500)
+
+db_from_env = dj_database_url.config(conn_max_age=500, ssl_require=True)
 DATABASES['default'].update(db_from_env)
 
 
@@ -126,15 +128,26 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
 
-STATIC_URL = '/static/'
-STATICFILES_DIRS = [
-                os.path.join(BASE_DIR, "static"),
-            ]
-
-STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
-STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
-MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+
+# MEDIA_ROOT = '/home/joe/Documents/exchange/Texchange/textchange/media/'
 
 MEDIA_URL = '/media/'
+
+# STATIC_ROOT = '/home/joe/Documents/exchange/Texchange/textchange/static/'
+
+# STATIC_URL = '/static/'
+
+AWS_STORAGE_BUCKET_NAME = 'izabelpharma'
+AWS_ACCESS_KEY_ID = 'AKIAJGEESZ3B7H5NVXLQ'
+AWS_SECRET_ACCESS_KEY = 'pLOCJba7HuLxm2dSHpTf3Te3zGlLZnNYg2zF'
+
+DEFAULT_FILE_STORAGE = 'storages.backends.s3boto.S3BotoStorage'
+
+AWS_S3_CUSTOM_DOMAIN = '%s.s3.amazonaws.com' % AWS_STORAGE_BUCKET_NAME
+
+STATIC_URL = "https://%s/" % AWS_S3_CUSTOM_DOMAIN
+
+STATICFILES_STORAGE = 'storages.backends.s3boto.S3BotoStorage'
