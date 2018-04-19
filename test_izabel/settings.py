@@ -12,6 +12,7 @@ https://docs.djangoproject.com/en/1.10/ref/settings/
 
 import os
 import dj_database_url
+from test_izabel.aws.conf import *
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 
@@ -25,7 +26,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'p^t!+o*5k7!zhr4j#6mkvyu*&@t)ggct$*r57o+*vy89@gu9^k'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['izabelpharma.herokuapp.com', '127.0.0.1']
 
@@ -33,6 +34,7 @@ ALLOWED_HOSTS = ['izabelpharma.herokuapp.com', '127.0.0.1']
 
 INSTALLED_APPS = [
     'medicines',
+    'storages',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
