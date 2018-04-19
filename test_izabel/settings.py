@@ -125,28 +125,8 @@ USE_L10N = True
 
 USE_TZ = True
 
-# Static files (CSS, JavaScript, Images)
-# https://docs.djangoproject.com/en/1.10/howto/static-files/
 
 
 
 
-# MEDIA_ROOT = '/home/joe/Documents/exchange/Texchange/textchange/media/'
 
-MEDIA_URL = '/media/'
-
-# STATIC_ROOT = '/home/joe/Documents/exchange/Texchange/textchange/static/'
-
-# STATIC_URL = '/static/'
-
-AWS_STORAGE_BUCKET_NAME = 'izabelpharma'
-AWS_ACCESS_KEY_ID = 'AKIAJGEESZ3B7H5NVXLQ'
-AWS_SECRET_ACCESS_KEY = 'pLOCJba7HuLxm2dSHpTf3Te3zGlLZnNYg2zF'
-
-DEFAULT_FILE_STORAGE = 'storages.backends.s3boto.S3BotoStorage'
-
-AWS_S3_CUSTOM_DOMAIN = '%s.s3.amazonaws.com' % AWS_STORAGE_BUCKET_NAME
-
-STATIC_URL = "https://%s/" % AWS_S3_CUSTOM_DOMAIN
-
-STATICFILES_STORAGE = 'storages.backends.s3boto.S3BotoStorage'
