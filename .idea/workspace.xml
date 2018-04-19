@@ -2,7 +2,1076 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9b73f3e-1405-4658-a2fc-d226933c368e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_izabel/aws/utils.py" afterPath="$PROJECT_DIR$/test_izabel/aws/utils.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Procfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/06-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/medicine1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/medicine1_3l0zyM1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/medicine1_SYRovji.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/medicine1_dfqYmqC.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/medicine1_jVopO84.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/medicine1_lS1JJAh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/runtime.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/css/agency.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/css/agency.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/css/creative.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/css/creative.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/about/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/about/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/about/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/about/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/header-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/logos/creative-market.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/logos/designmodo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/logos/envato.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/logos/themeforest.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/map-image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/01-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/01-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/02-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/02-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/03-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/03-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/04-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/04-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/05-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/05-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/06-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/06-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/fullsize/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/fullsize/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/fullsize/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/fullsize/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/fullsize/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/fullsize/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/medicine1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/thumbnails/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/thumbnails/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/thumbnails/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/thumbnails/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/thumbnails/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/portfolio/thumbnails/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/team/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/team/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/img/team/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/js/agency.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/js/agency.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/js/contact_me.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/js/contact_me.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/js/creative.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/js/creative.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/js/jqBootstrapValidation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/js/jqBootstrapValidation.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/scss/_bootstrap-overrides.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/scss/_contact.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/scss/_footer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/scss/_global.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/scss/_masthead.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/scss/_navbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/scss/_portfolio.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/scss/_services.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/scss/_team.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/scss/_timeline.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/scss/agency.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/scss/creative.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/bootstrap/css/bootstrap-grid.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/bootstrap/css/bootstrap-grid.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/bootstrap/css/bootstrap-reboot.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/bootstrap/css/bootstrap-reboot.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/bootstrap/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/bootstrap/js/bootstrap.bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/bootstrap/js/bootstrap.bundle.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/bootstrap/js/bootstrap.bundle.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/bootstrap/js/bootstrap.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/bootstrap/js/bootstrap.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/css/font-awesome.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/less/screen-reader.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/scss/_screen-reader.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/font-awesome/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/jquery-easing/jquery.easing.compatibility.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/jquery-easing/jquery.easing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/jquery-easing/jquery.easing.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/jquery/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/jquery/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/jquery/jquery.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/jquery/jquery.slim.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/jquery/jquery.slim.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/jquery/jquery.slim.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/magnific-popup/jquery.magnific-popup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/magnific-popup/jquery.magnific-popup.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/magnific-popup/magnific-popup.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/scrollreveal/scrollreveal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/medicines/vendor/scrollreveal/scrollreveal.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/autocomplete.781713f30664.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/autocomplete.781713f30664.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/autocomplete.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/autocomplete.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/base.17fd9d2dcc19.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/base.33897d8d3faf.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/base.33897d8d3faf.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/base.a419cbad388f.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/base.a419cbad388f.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/base.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/changelists.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/changelists.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/changelists.f6dc691f8d62.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/changelists.f6dc691f8d62.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/dashboard.7ac78187c567.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/dashboard.7ac78187c567.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/dashboard.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/dashboard.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/fonts.494e4ec545c9.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/fonts.494e4ec545c9.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/fonts.cc6140298ba7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/fonts.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/forms.15ebfebbeb3d.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/forms.15ebfebbeb3d.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/forms.2003a066ae02.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/forms.2003a066ae02.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/forms.77b3f8a70811.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/forms.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/forms.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/login.a846c0e2ef65.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/login.a846c0e2ef65.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/login.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/login.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/responsive.25d98d3909ed.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/responsive.25d98d3909ed.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/responsive.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/responsive_rtl.2a6652327ccd.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/responsive_rtl.2a6652327ccd.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/responsive_rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/responsive_rtl.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/rtl.4c867197b256.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/rtl.4c867197b256.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/rtl.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/vendor/select2/LICENSE-SELECT2.7cf1de939f3b.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/vendor/select2/LICENSE-SELECT2.7cf1de939f3b.md.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/vendor/select2/LICENSE-SELECT2.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/vendor/select2/LICENSE-SELECT2.md.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/vendor/select2/select2.3805311d5fc1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/vendor/select2/select2.3805311d5fc1.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/vendor/select2/select2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/vendor/select2/select2.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/vendor/select2/select2.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/vendor/select2/select2.min.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/vendor/select2/select2.min.d44571114a90.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/vendor/select2/select2.min.d44571114a90.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/widgets.5e372b41c483.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/widgets.5e372b41c483.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/widgets.a7251c097987.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/widgets.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/css/widgets.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/fonts/LICENSE.d273d63619c9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/fonts/LICENSE.d273d63619c9.txt.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/fonts/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/fonts/LICENSE.txt.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/fonts/README.2c3d0bcdede2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/fonts/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/fonts/Roboto-Bold-webfont.2ad99072841e.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/fonts/Roboto-Bold-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/fonts/Roboto-Light-webfont.b446c2399bb6.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/fonts/Roboto-Light-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/fonts/Roboto-Regular-webfont.ec39515ae8c6.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/fonts/Roboto-Regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/LICENSE.2c54f4e1ca1c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/LICENSE.2c54f4e1ca1c.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/LICENSE.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/README.837277fa1908.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/README.837277fa1908.txt.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/README.txt.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/calendar-icons.39b290681a8b.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/calendar-icons.39b290681a8b.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/calendar-icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/calendar-icons.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/gis/move_vertex_off.7a23bf31ef8a.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/gis/move_vertex_off.7a23bf31ef8a.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/gis/move_vertex_off.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/gis/move_vertex_off.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/gis/move_vertex_on.0047eba25b67.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/gis/move_vertex_on.0047eba25b67.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/gis/move_vertex_on.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/gis/move_vertex_on.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-addlink.d519b3bab011.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-addlink.d519b3bab011.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-addlink.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-addlink.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-alert.034cc7d8a67f.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-alert.034cc7d8a67f.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-alert.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-alert.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-calendar.ac7aea671bea.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-calendar.ac7aea671bea.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-calendar.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-calendar.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-changelink.18d2fd706348.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-changelink.18d2fd706348.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-changelink.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-changelink.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-clock.e1d4dfac3f2b.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-clock.e1d4dfac3f2b.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-clock.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-clock.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-deletelink.564ef9dc3854.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-deletelink.564ef9dc3854.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-deletelink.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-deletelink.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-no.439e821418cd.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-no.439e821418cd.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-no.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-no.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-unknown-alt.81536e128bb6.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-unknown-alt.81536e128bb6.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-unknown-alt.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-unknown-alt.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-unknown.a18cb4398978.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-unknown.a18cb4398978.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-unknown.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-unknown.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-yes.d2f9f035226a.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-yes.d2f9f035226a.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-yes.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/icon-yes.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/inline-delete.fec1b761f254.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/inline-delete.fec1b761f254.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/inline-delete.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/inline-delete.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/search.7cf54ff789c6.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/search.7cf54ff789c6.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/search.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/search.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/selector-icons.b4555096cea2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/selector-icons.b4555096cea2.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/selector-icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/selector-icons.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/sorting-icons.3a097b59f104.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/sorting-icons.3a097b59f104.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/sorting-icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/sorting-icons.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/tooltag-add.e59d620a9742.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/tooltag-add.e59d620a9742.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/tooltag-add.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/tooltag-add.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/tooltag-arrowright.bbfb788a849e.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/tooltag-arrowright.bbfb788a849e.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/tooltag-arrowright.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/img/tooltag-arrowright.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/SelectBox.b49f008d186b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/SelectBox.b49f008d186b.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/SelectBox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/SelectBox.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/SelectFilter2.2360f389ca5d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/SelectFilter2.2360f389ca5d.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/SelectFilter2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/SelectFilter2.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/actions.6bf7f1c0488d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/actions.6bf7f1c0488d.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/actions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/actions.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/actions.min.741d6cf65b97.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/actions.min.741d6cf65b97.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/actions.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/actions.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/admin/DateTimeShortcuts.9328d2bf6579.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/admin/DateTimeShortcuts.9328d2bf6579.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/admin/DateTimeShortcuts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/admin/DateTimeShortcuts.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/admin/RelatedObjectLookups.ace63ab4b4e2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/admin/RelatedObjectLookups.ace63ab4b4e2.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/admin/RelatedObjectLookups.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/admin/RelatedObjectLookups.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/autocomplete.cfd2c4dc8981.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/autocomplete.cfd2c4dc8981.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/autocomplete.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/autocomplete.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/calendar.aae57adab5f6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/calendar.aae57adab5f6.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/calendar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/calendar.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/cancel.1d69cba4b4bf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/cancel.1d69cba4b4bf.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/cancel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/cancel.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/change_form.9e85003a1a38.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/change_form.9e85003a1a38.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/change_form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/change_form.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/collapse.17d715df2104.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/collapse.17d715df2104.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/collapse.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/collapse.min.e1d03a2acd1e.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/collapse.min.e1d03a2acd1e.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/collapse.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/collapse.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/core.953326603873.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/core.953326603873.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/core.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/inlines.bc34c02c43c8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/inlines.bc34c02c43c8.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/inlines.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/inlines.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/inlines.min.4b879f616086.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/inlines.min.4b879f616086.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/inlines.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/inlines.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/jquery.init.95b62fa19378.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/jquery.init.95b62fa19378.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/jquery.init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/jquery.init.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/popup_response.6ce3197f8fc8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/popup_response.6ce3197f8fc8.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/popup_response.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/popup_response.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/prepopulate.ff9208865444.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/prepopulate.ff9208865444.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/prepopulate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/prepopulate.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/prepopulate.min.f4057ebb9b62.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/prepopulate.min.f4057ebb9b62.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/prepopulate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/prepopulate.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/prepopulate_init.0d3b53c37074.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/prepopulate_init.0d3b53c37074.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/prepopulate_init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/prepopulate_init.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/timeparse.51258861a46a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/timeparse.51258861a46a.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/timeparse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/timeparse.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/urlify.3d46df4a0190.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/urlify.3d46df4a0190.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/urlify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/urlify.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/jquery/LICENSE-JQUERY.a158210a2737.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/jquery/LICENSE-JQUERY.a158210a2737.txt.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/jquery/LICENSE-JQUERY.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/jquery/LICENSE-JQUERY.txt.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/jquery/jquery.aacc43d6f308.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/jquery/jquery.aacc43d6f308.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/jquery/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/jquery/jquery.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/jquery/jquery.min.33cabfa15c10.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/jquery/jquery.min.33cabfa15c10.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/jquery/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/jquery/jquery.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/LICENSE-SELECT2.7cf1de939f3b.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/LICENSE-SELECT2.7cf1de939f3b.md.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/LICENSE-SELECT2.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/LICENSE-SELECT2.md.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ar.a8bb27ec698c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ar.a8bb27ec698c.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ar.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/az.498dc667b34e.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/az.498dc667b34e.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/az.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/az.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/bg.89cba4df3c86.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/bg.89cba4df3c86.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/bg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/bg.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ca.2eaad4eb1950.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ca.2eaad4eb1950.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ca.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/cs.a68bcd293adc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/cs.a68bcd293adc.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/cs.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/da.cbf897a0ae53.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/da.cbf897a0ae53.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/da.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/de.366d0aacb55f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/de.366d0aacb55f.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/de.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/el.5629ce65500f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/el.5629ce65500f.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/el.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/el.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/en.05649b26c086.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/en.05649b26c086.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/en.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/en.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/es.dc9dbf9d65df.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/es.dc9dbf9d65df.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/es.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/et.c3953fb90b6b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/et.c3953fb90b6b.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/et.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/et.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/eu.11b925456433.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/eu.11b925456433.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/eu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/eu.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/fa.98e52839b583.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/fa.98e52839b583.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/fa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/fa.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/fi.659847deefdc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/fi.659847deefdc.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/fi.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/fr.b06a3340de45.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/fr.b06a3340de45.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/fr.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/gl.78a87f7c0a51.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/gl.78a87f7c0a51.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/gl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/gl.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/he.222d90ee0344.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/he.222d90ee0344.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/he.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hi.116a90b7111b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hi.116a90b7111b.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hi.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hr.e1d2c70b4df5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hr.e1d2c70b4df5.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hr.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hu.db45641f10b2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hu.db45641f10b2.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hu.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/id.6ee6c9c64b94.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/id.6ee6c9c64b94.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/id.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/is.808c7d47acb5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/is.808c7d47acb5.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/is.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/is.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/it.bae1661dbb77.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/it.bae1661dbb77.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/it.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ja.19cf1ce8a03d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ja.19cf1ce8a03d.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ja.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/km.6074a9c5575c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/km.6074a9c5575c.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/km.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/km.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ko.74b17541834f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ko.74b17541834f.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ko.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ko.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/lt.a0783b1bd159.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/lt.a0783b1bd159.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/lt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/lt.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/lv.07fe2a580d17.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/lv.07fe2a580d17.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/lv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/lv.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/mk.4986d7fc3ff3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/mk.4986d7fc3ff3.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/mk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/mk.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ms.23e7b4369579.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ms.23e7b4369579.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ms.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/nb.137e184004aa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/nb.137e184004aa.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/nb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/nb.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/nl.c363ace8aa05.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/nl.c363ace8aa05.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/nl.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/pl.76465b54a6b0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/pl.76465b54a6b0.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/pl.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/pt-BR.9efbbac4fda8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/pt-BR.9efbbac4fda8.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/pt-BR.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/pt-BR.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/pt.5d6ccc53b347.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/pt.5d6ccc53b347.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/pt.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ro.1ddc2b9980dc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ro.1ddc2b9980dc.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ro.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ru.d83609abf2e0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ru.d83609abf2e0.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ru.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sk.a0f1a818d092.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sk.a0f1a818d092.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sk.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sr-Cyrl.2f3047aad49e.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sr-Cyrl.2f3047aad49e.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sr-Cyrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sr-Cyrl.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sr.157bc6eb978e.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sr.157bc6eb978e.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sr.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sv.2b21bb3f6110.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sv.2b21bb3f6110.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sv.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/th.2a4ece4c4355.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/th.2a4ece4c4355.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/th.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/tr.c1925d8817db.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/tr.c1925d8817db.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/tr.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/uk.3d56f311192d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/uk.3d56f311192d.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/uk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/uk.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/vi.3520aa7bdea8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/vi.3520aa7bdea8.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/vi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/vi.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/zh-CN.419002d3c6c1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/zh-CN.419002d3c6c1.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/zh-CN.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/zh-CN.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/zh-TW.c021537edf2c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/zh-TW.c021537edf2c.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/zh-TW.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/zh-TW.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/select2.full.a95323cb4760.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/select2.full.a95323cb4760.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/select2.full.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/select2.full.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/select2.full.min.da607360bcc6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/select2.full.min.da607360bcc6.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/select2.full.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/select2.full.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/xregexp/LICENSE-XREGEXP.d64cecf4f157.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/xregexp/LICENSE-XREGEXP.d64cecf4f157.txt.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/xregexp/xregexp.1865b1cf5085.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/xregexp/xregexp.1865b1cf5085.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/xregexp/xregexp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/xregexp/xregexp.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/xregexp/xregexp.min.c95393b8ca4d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/xregexp/xregexp.min.c95393b8ca4d.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/xregexp/xregexp.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/xregexp/xregexp.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/css/agency.55815001bd53.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/css/agency.55815001bd53.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/css/agency.c6a3b5bdf436.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/css/agency.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/css/agency.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/css/agency.min.3ca4fc11e920.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/css/agency.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/css/agency.min.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/css/agency.min.d640e646ac7e.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/css/agency.min.d640e646ac7e.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/css/creative.41c4b2d76127.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/css/creative.41c4b2d76127.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/css/creative.998d0afe86dc.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/css/creative.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/css/creative.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/css/creative.min.08e2873e83e3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/css/creative.min.08e2873e83e3.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/css/creative.min.6457b3b5ac63.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/css/creative.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/css/creative.min.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/about/1.7e4f5ec6d94a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/about/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/about/2.a90b0f86f471.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/about/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/about/3.3fcdede3b856.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/about/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/about/4.d39bbbd72226.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/about/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/header-bg.e2d2a51c2932.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/header-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/header.fb7e411aaf7b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/logos/creative-market.cf93e986fb2f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/logos/creative-market.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/logos/designmodo.4746e67ebd0f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/logos/designmodo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/logos/envato.c42066b3ecd8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/logos/envato.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/logos/themeforest.b6d135509d34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/logos/themeforest.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/map-image.f40ed5b1e791.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/map-image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/01-full.f8648487f068.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/01-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/01-thumbnail.eda4598198a0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/01-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/02-full.8fdb36b51df8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/02-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/02-thumbnail.e52270b3af9b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/02-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/03-full.3b263f0ffc38.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/03-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/03-thumbnail.09c41872ba6c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/03-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/04-full.c58223e188b4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/04-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/04-thumbnail.80c8ff5c4a1a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/04-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/05-full.408a2be2fc16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/05-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/05-thumbnail.68d8d9495f59.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/05-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/06-full.6379a8ad27de.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/06-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/06-thumbnail.20456fff3658.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/06-thumbnail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/fullsize/1.35fc9782e5ef.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/fullsize/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/fullsize/2.291ec430375d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/fullsize/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/fullsize/3.997129817a98.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/fullsize/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/fullsize/4.0cc1d0046001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/fullsize/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/fullsize/5.edb6acef9dd5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/fullsize/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/fullsize/6.61db59089da1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/fullsize/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/medicine1.2877508aaa3f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/medicine1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/thumbnails/1.35fc9782e5ef.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/thumbnails/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/thumbnails/2.291ec430375d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/thumbnails/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/thumbnails/3.997129817a98.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/thumbnails/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/thumbnails/4.0cc1d0046001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/thumbnails/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/thumbnails/5.edb6acef9dd5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/thumbnails/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/thumbnails/6.61db59089da1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/portfolio/thumbnails/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/team/1.e25053c45315.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/team/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/team/2.cba429d93586.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/team/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/team/3.838cdb868e76.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/img/team/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/agency.2c4bea2094fb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/agency.2c4bea2094fb.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/agency.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/agency.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/agency.min.14fbe564ae66.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/agency.min.14fbe564ae66.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/agency.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/agency.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/contact_me.57178cdd29a7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/contact_me.57178cdd29a7.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/contact_me.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/contact_me.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/contact_me.min.b3e248f26992.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/contact_me.min.b3e248f26992.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/contact_me.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/contact_me.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/creative.083817128c9f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/creative.083817128c9f.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/creative.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/creative.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/creative.min.3510ac697c6f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/creative.min.3510ac697c6f.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/creative.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/creative.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/jqBootstrapValidation.f345fca5f823.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/jqBootstrapValidation.f345fca5f823.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/jqBootstrapValidation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/jqBootstrapValidation.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/jqBootstrapValidation.min.797e5523a9e3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/jqBootstrapValidation.min.797e5523a9e3.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/jqBootstrapValidation.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/js/jqBootstrapValidation.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_bootstrap-overrides.32fdda60343d.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_bootstrap-overrides.32fdda60343d.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_bootstrap-overrides.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_bootstrap-overrides.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_contact.68b329da9893.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_contact.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_footer.d21bc4ded8e1.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_footer.d21bc4ded8e1.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_footer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_footer.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_global.e8e68455ab1a.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_global.e8e68455ab1a.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_global.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_global.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_masthead.e3f20557281e.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_masthead.e3f20557281e.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_masthead.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_masthead.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_mixins.4f9b8d050cef.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_mixins.4f9b8d050cef.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_mixins.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_navbar.4c89ef0c6749.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_navbar.4c89ef0c6749.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_navbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_navbar.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_portfolio.c02783a807b8.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_portfolio.c02783a807b8.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_portfolio.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_portfolio.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_services.16e116be9613.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_services.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_team.dc67aac3ab52.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_team.dc67aac3ab52.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_team.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_team.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_timeline.6bfbcb345d3b.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_timeline.6bfbcb345d3b.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_timeline.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_timeline.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_variables.772b14449b41.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_variables.772b14449b41.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/_variables.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/agency.8dce77f22986.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/agency.8dce77f22986.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/agency.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/agency.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/creative.1f13c2925429.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/creative.1f13c2925429.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/creative.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/scss/creative.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap-grid.5b8e85055bb8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap-grid.5b8e85055bb8.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap-grid.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap-grid.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap-grid.min.c9654d9c891f.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap-grid.min.c9654d9c891f.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap-grid.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap-grid.min.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap-reboot.b69603cbb040.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap-reboot.b69603cbb040.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap-reboot.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap-reboot.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap-reboot.min.38e73bab749e.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap-reboot.min.38e73bab749e.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap-reboot.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap-reboot.min.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap.css.baebc743a8e9.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap.css.baebc743a8e9.map.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap.css.map.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap.d59729439a20.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap.d59729439a20.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap.min.450fc463b8b1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap.min.450fc463b8b1.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap.min.css.d35c9e55233c.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap.min.css.d35c9e55233c.map.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap.min.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/css/bootstrap.min.css.map.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.bundle.6866f102282d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.bundle.6866f102282d.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.bundle.js.61b82bbc09dd.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.bundle.js.61b82bbc09dd.map.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.bundle.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.bundle.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.bundle.js.map.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.bundle.min.98d2c1da1c0a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.bundle.min.98d2c1da1c0a.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.bundle.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.bundle.min.js.91b4eb2e34d3.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.bundle.min.js.91b4eb2e34d3.map.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.bundle.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.bundle.min.js.map.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.d810a38ca278.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.d810a38ca278.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.js.a9071a2bbefe.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.js.a9071a2bbefe.map.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.js.map.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.min.14d449eb8876.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.min.14d449eb8876.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.min.js.331c9bac5363.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.min.js.331c9bac5363.map.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/bootstrap/js/bootstrap.min.js.map.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/css/font-awesome.7d46203b9170.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/css/font-awesome.7d46203b9170.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/css/font-awesome.c49565486978.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/css/font-awesome.css.8d57a9642cf6.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/css/font-awesome.css.8d57a9642cf6.map.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/css/font-awesome.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/css/font-awesome.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/css/font-awesome.css.map.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/css/font-awesome.min.269550530cc1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/css/font-awesome.min.bf0c425cdb73.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/css/font-awesome.min.bf0c425cdb73.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/css/font-awesome.min.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/fonts/FontAwesome.0d2717cd5d85.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/fonts/FontAwesome.0d2717cd5d85.otf.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/fonts/FontAwesome.otf.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/fonts/fontawesome-webfont.674f50d287a8.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/fonts/fontawesome-webfont.674f50d287a8.eot.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/fonts/fontawesome-webfont.912ec66d7572.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/fonts/fontawesome-webfont.912ec66d7572.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/fonts/fontawesome-webfont.af7ae505a9ee.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/fonts/fontawesome-webfont.b06871f281fe.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/fonts/fontawesome-webfont.b06871f281fe.ttf.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/fonts/fontawesome-webfont.eot.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/fonts/fontawesome-webfont.fee66e712a8a.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/fonts/fontawesome-webfont.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/fonts/fontawesome-webfont.ttf.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/animated.08baef05e053.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/animated.08baef05e053.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/animated.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/bordered-pulled.898f90e40876.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/bordered-pulled.898f90e40876.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/bordered-pulled.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/core.fb4efe4ae637.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/core.fb4efe4ae637.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/core.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/fixed-width.5e07ec001f8d.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/fixed-width.5e07ec001f8d.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/fixed-width.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/font-awesome.15cb7faa0243.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/font-awesome.15cb7faa0243.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/font-awesome.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/icons.bf95b901c36b.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/icons.bf95b901c36b.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/icons.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/larger.8cb65280c0f8.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/larger.8cb65280c0f8.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/larger.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/list.975571323cf8.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/list.975571323cf8.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/list.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/mixins.fbb1f2f1ab96.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/mixins.fbb1f2f1ab96.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/mixins.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/path.a8c41460c42a.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/path.a8c41460c42a.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/path.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/rotated-flipped.a8476cdc50c2.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/rotated-flipped.a8476cdc50c2.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/rotated-flipped.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/screen-reader.0f8816172645.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/screen-reader.0f8816172645.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/screen-reader.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/screen-reader.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/stacked.518e2b2d2639.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/stacked.518e2b2d2639.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/stacked.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/variables.be3f6eed38aa.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/variables.be3f6eed38aa.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/less/variables.less.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_animated.39ff4f359a7b.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_animated.39ff4f359a7b.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_animated.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_bordered-pulled.4cad0df17bf4.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_bordered-pulled.4cad0df17bf4.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_bordered-pulled.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_core.ef059a98cf9d.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_core.ef059a98cf9d.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_core.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_fixed-width.9277ab6964a4.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_fixed-width.9277ab6964a4.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_fixed-width.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_icons.de9fa842ad0b.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_icons.de9fa842ad0b.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_icons.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_larger.e95931566f6f.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_larger.e95931566f6f.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_larger.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_list.7107e80b0539.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_list.7107e80b0539.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_list.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_mixins.aa2b8f32b403.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_mixins.aa2b8f32b403.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_mixins.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_path.ab5a9e838856.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_path.ab5a9e838856.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_path.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_rotated-flipped.9f5d4bc6fade.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_rotated-flipped.9f5d4bc6fade.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_rotated-flipped.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_screen-reader.8907bd7dbf47.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_screen-reader.8907bd7dbf47.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_screen-reader.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_screen-reader.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_stacked.5594237226ae.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_stacked.5594237226ae.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_stacked.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_variables.dc5261f37a8a.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_variables.dc5261f37a8a.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/_variables.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/font-awesome.8c015559216d.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/font-awesome.8c015559216d.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/font-awesome/scss/font-awesome.scss.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery-easing/jquery.easing.b55af8280cff.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery-easing/jquery.easing.b55af8280cff.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery-easing/jquery.easing.compatibility.ba0f90adf86e.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery-easing/jquery.easing.compatibility.ba0f90adf86e.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery-easing/jquery.easing.compatibility.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery-easing/jquery.easing.compatibility.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery-easing/jquery.easing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery-easing/jquery.easing.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery-easing/jquery.easing.min.e2d41e5c8fed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery-easing/jquery.easing.min.e2d41e5c8fed.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery-easing/jquery.easing.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery-easing/jquery.easing.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.6a07da9fae93.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.6a07da9fae93.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.min.a09e13ee94d5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.min.a09e13ee94d5.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.min.bae3c738b74d.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.min.bae3c738b74d.map.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.min.map.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.slim.450d478c0491.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.slim.450d478c0491.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.slim.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.slim.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.slim.min.375e0272b015.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.slim.min.375e0272b015.map.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.slim.min.99b0a83cf1b0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.slim.min.99b0a83cf1b0.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.slim.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.slim.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.slim.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/jquery/jquery.slim.min.map.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/magnific-popup/jquery.magnific-popup.5b23ded83b6a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/magnific-popup/jquery.magnific-popup.5b23ded83b6a.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/magnific-popup/jquery.magnific-popup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/magnific-popup/jquery.magnific-popup.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/magnific-popup/jquery.magnific-popup.min.ba6cf724c8bb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/magnific-popup/jquery.magnific-popup.min.ba6cf724c8bb.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/magnific-popup/jquery.magnific-popup.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/magnific-popup/jquery.magnific-popup.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/magnific-popup/magnific-popup.30b593b71d76.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/magnific-popup/magnific-popup.30b593b71d76.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/magnific-popup/magnific-popup.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/magnific-popup/magnific-popup.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/scrollreveal/scrollreveal.af4ab6e5d082.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/scrollreveal/scrollreveal.af4ab6e5d082.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/scrollreveal/scrollreveal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/scrollreveal/scrollreveal.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/scrollreveal/scrollreveal.min.5deb4348d63c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/scrollreveal/scrollreveal.min.5deb4348d63c.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/scrollreveal/scrollreveal.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/medicines/vendor/scrollreveal/scrollreveal.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/staticfiles/staticfiles.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_izabel/aws/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_izabel/aws/conf.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_izabel/aws/utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_izabel/requirements.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_izabel/settings.py" afterPath="$PROJECT_DIR$/test_izabel/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_izabel/wsgi.py" afterPath="$PROJECT_DIR$/test_izabel/wsgi.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,11 +1085,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_izabel/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="187">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="13" selection-end-column="80" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -40,11 +1109,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/medicines/templates/medicines/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_izabel/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="-63">
+              <caret line="29" column="12" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
               <folding>
                 <element signature="e#315#324#0" expanded="true" />
               </folding>
@@ -62,42 +1141,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="utils.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_izabel/aws/utils.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="conf.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_izabel/aws/conf.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="68" lean-forward="false" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_izabel/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="wsgi.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_izabel/wsgi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-              <folding />
+            <state relative-caret-position="221">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <element signature="e#228#237#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -105,7 +1156,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/medicines/templates/medicines/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1615">
+            <state relative-caret-position="508">
               <caret line="95" column="65" lean-forward="false" selection-start-line="95" selection-start-column="65" selection-end-line="95" selection-end-column="65" />
               <folding />
             </state>
@@ -142,22 +1193,22 @@
         <option value="$PROJECT_DIR$/medicines/views.py" />
         <option value="$PROJECT_DIR$/medicines/admin.py" />
         <option value="$PROJECT_DIR$/medicines/static/medicines/scss/_contact.scss" />
-        <option value="$PROJECT_DIR$/medicines/templates/medicines/base.html" />
         <option value="$PROJECT_DIR$/medicines/static/medicines/css/agency.css" />
         <option value="$PROJECT_DIR$/medicines/models.py" />
         <option value="$PROJECT_DIR$/medicines/templates/medicines/index.html" />
         <option value="$PROJECT_DIR$/medicines/urls.py" />
         <option value="$PROJECT_DIR$/medicines/static/medicines/vendor/bootstrap/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/medicines/static/medicines/css/agency.min.css" />
-        <option value="$PROJECT_DIR$/test_izabel/wsgi.py" />
-        <option value="$PROJECT_DIR$/test_izabel/urls.py" />
         <option value="$PROJECT_DIR$/Procfile.txt" />
         <option value="$PROJECT_DIR$/medicines/templates/medicines/product_list.html" />
         <option value="$PROJECT_DIR$/medicines/apps.py" />
         <option value="$PROJECT_DIR$/test_izabel/__init__.py" />
-        <option value="$PROJECT_DIR$/test_izabel/settings.py" />
         <option value="$PROJECT_DIR$/test_izabel/aws/utils.py" />
         <option value="$PROJECT_DIR$/test_izabel/aws/conf.py" />
+        <option value="$PROJECT_DIR$/medicines/templates/medicines/base.html" />
+        <option value="$PROJECT_DIR$/test_izabel/wsgi.py" />
+        <option value="$PROJECT_DIR$/test_izabel/settings.py" />
+        <option value="$PROJECT_DIR$/test_izabel/urls.py" />
       </list>
     </option>
   </component>
@@ -188,8 +1239,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,13 +1251,42 @@
             <path>
               <item name="test_izabel" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_izabel" type="462c0819:PsiDirectoryNode" />
-              <item name="test_izabel" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_izabel" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_izabel" type="462c0819:PsiDirectoryNode" />
+              <item name="medicines" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_izabel" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_izabel" type="462c0819:PsiDirectoryNode" />
-              <item name="aws" type="462c0819:PsiDirectoryNode" />
+              <item name="medicines" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_izabel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_izabel" type="462c0819:PsiDirectoryNode" />
+              <item name="medicines" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="medicines" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_izabel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_izabel" type="462c0819:PsiDirectoryNode" />
+              <item name="medicines" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="medicines" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_izabel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_izabel" type="462c0819:PsiDirectoryNode" />
+              <item name="medicines" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="medicines" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_izabel" type="b2602c69:ProjectViewProjectNode" />
@@ -291,19 +1371,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23600605" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2397882" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32869565" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46604937" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11111111" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.063271604" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21141975" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2669753" sideWeight="0.4969743" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2824074" sideWeight="0.4969743" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -385,14 +1464,6 @@
     <entry file="file://$PROJECT_DIR$/medicines/static/medicines/css/creative.css" />
     <entry file="file://$PROJECT_DIR$/medicines/static/medicines/vendor/magnific-popup/magnific-popup.css" />
     <entry file="file://$PROJECT_DIR$/medicines/static/medicines/css/agency.min.css" />
-    <entry file="file://$PROJECT_DIR$/medicines/templates/medicines/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="63" lean-forward="false" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/medicines/static/medicines/vendor/bootstrap/css/bootstrap.min.css" />
     <entry file="file://$PROJECT_DIR$/medicines/admin.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -428,49 +1499,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_izabel/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medicines/templates/medicines/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1615">
-          <caret line="95" column="65" lean-forward="false" selection-start-line="95" selection-start-column="65" selection-end-line="95" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_izabel/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medicines/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/media/medicine1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_izabel/aws/conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="68" lean-forward="false" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_izabel/aws/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medicines/templates/medicines/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="95" column="65" lean-forward="false" selection-start-line="95" selection-start-column="65" selection-end-line="95" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_izabel/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#228#237#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_izabel/__init__.py">
@@ -491,27 +1559,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_izabel/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="-63">
+          <caret line="29" column="12" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
           <folding>
             <element signature="e#315#324#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_izabel/aws/conf.py">
+    <entry file="file://$PROJECT_DIR$/medicines/templates/medicines/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="68" lean-forward="false" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+        <state relative-caret-position="17">
+          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_izabel/aws/utils.py">
+    <entry file="file://$PROJECT_DIR$/medicines/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_izabel/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="13" selection-end-column="80" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

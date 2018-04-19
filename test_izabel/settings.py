@@ -12,7 +12,7 @@ https://docs.djangoproject.com/en/1.10/ref/settings/
 
 import os
 import dj_database_url
-from test_izabel.aws.conf import *
+
 
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
@@ -27,7 +27,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'p^t!+o*5k7!zhr4j#6mkvyu*&@t)ggct$*r57o+*vy89@gu9^k'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['izabelpharma.herokuapp.com', '127.0.0.1']
 
@@ -35,7 +35,6 @@ ALLOWED_HOSTS = ['izabelpharma.herokuapp.com', '127.0.0.1']
 
 INSTALLED_APPS = [
     'medicines',
-    'storages',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -80,20 +79,10 @@ WSGI_APPLICATION = 'test_izabel.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2', # Add 'postgresql_psycopg2', 'mysql', 'sqlite3' or 'oracle'.
-        'NAME': 'd7nerdug654tbg',                      # Or path to database file if using sqlite3.
-        # The following settings are not used with sqlite3:
-        'USER': 'dlaovnlaczmlaj',
-        'PASSWORD': '474cc67c904a346d18b9167aea88e0aeeea27c26aebe28679e4b33f5f555ee12',
-        'HOST': 'ec2-54-83-58-222.compute-1.amazonaws.com',                      # Empty for localhost through domain sockets or '127.0.0.1' for localhost through TCP.
-        'PORT': '5432',                      # Set to empty string for default.
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
-
-db_from_env = dj_database_url.config(conn_max_age=500, ssl_require=True)
-DATABASES['default'].update(db_from_env)
-
-
 # Password validation
 # https://docs.djangoproject.com/en/1.10/ref/settings/#auth-password-validators
 
@@ -124,6 +113,13 @@ USE_I18N = True
 USE_L10N = True
 
 USE_TZ = True
+
+STATIC_URL = '/static/'
+
+
+
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+MEDIA_URL = '/media/'
 
 
 
